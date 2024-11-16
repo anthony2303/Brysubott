@@ -2,53 +2,46 @@
   "info": {
 
     "accounts": {
-      "youTube": "https://wa.me/584123989549",
-      "instagram": "https://wa.me/584123989549",
-      "gatabot_md": "https://wa.me/584123989549",
-      "gatabotlite_md": "https://wa.me/584123989549",
-      "facebook": "https://wa.me/584123989549",
-      "tiktok": "https://wa.me/584123989549",
-      "threads": "https://wa.me/584123989549",
-      "paypal": "https://wa.me/584123989549",
-      "github": "https://wa.me/584123989549",
-      "mail": "https://wa.me/584123989549",
-      "all": "https://wa.me/584123989549"
-    },
-
-    "channels": {
-      "channel1": "https://whatsapp.com/channel/0029Vak6H9l3GJP4FJH5063R",
-      "channel2": "https://whatsapp.com/channel/0029Vak6H9l3GJP4FJH5063R",
-      "channel3": "https://whatsapp.com/channel/0029Vak6H9l3GJP4FJH5063R",
-      "channel4": "https://whatsapp.com/channel/0029Vak6H9l3GJP4FJH5063R"
+      "youTube": "https://wa.me/5219181527190",
+      "instagram": "https://wa.me/5219181527190",
+      "gatabot_md": "https://wa.me/5219181527190",
+      "gatabotlite_md": "https://wa.me/5219181527190",
+      "facebook": "https://wa.me/5219181527190",
+      "tiktok": "https://wa.me/5219181527190",
+      "threads": "https://wa.me/5219181527190",
+      "paypal": "https://wa.me/5219181527190",
+      "github": "https://wa.me/5219181527190",
+      "mail": "https://wa.me/5219181527190",
+      "all": "https://wa.me/5219181527190"
     },
 
     "groups": {
-      "group1": "https://chat.whatsapp.com/ExJXKPyFzMC7q1uEYuXVDZ",
-      "group2": "https://chat.whatsapp.com/ExJXKPyFzMC7q1uEYuXVDZ",
-      "group3": "https://chat.whatsapp.com/ExJXKPyFzMC7q1uEYuXVDZ",
-      "group4": "https://chat.whatsapp.com/ExJXKPyFzMC7q1uEYuXVDZ",
-      "group5": "https://chat.whatsapp.com/ExJXKPyFzMC7q1uEYuXVDZ",
-      "group6": "https://chat.whatsapp.com/ExJXKPyFzMC7q1uEYuXVDZ"
+      "group1": "https://chat.whatsapp.com/Idh4WkP28M5KMzql3cric8",
+      "group2": "https://chat.whatsapp.com/Idh4WkP28M5KMzql3cric8",
+      "group3": "https://chat.whatsapp.com/Idh4WkP28M5KMzql3cric8",
+      "group4": "https://chat.whatsapp.com/Idh4WkP28M5KMzql3cric8",
+      "group5": "https://chat.whatsapp.com/Idh4WkP28M5KMzql3cric8",
+      "group6": "https://chat.whatsapp.com/Idh4WkP28M5KMzql3cric8"
     },
 
     "collaboration": {
-      "group1": "https://chat.whatsapp.com/ExJXKPyFzMC7q1uEYuXVDZ",
-      "group2": "https://chat.whatsapp.com/ExJXKPyFzMC7q1uEYuXVDZ",
-      "group3": "https://chat.whatsapp.com/ExJXKPyFzMC7q1uEYuXVDZ",
-      "group4": "https://chat.whatsapp.com/ExJXKPyFzMC7q1uEYuXVDZ"
+      "group1": "https://chat.whatsapp.com/Idh4WkP28M5KMzql3cric8",
+      "group2": "https://chat.whatsapp.com/Idh4WkP28M5KMzql3cric8",
+      "group3": "https://chat.whatsapp.com/Idh4WkP28M5KMzql3cric8",
+      "group4": "https://chat.whatsapp.com/Idh4WkP28M5KMzql3cric8"
     },
 
     "sponsors": {
-      "boxmine": "https://wa.me/584123989549",
-      "cafirexos": "https://wa.me/584123989549",
-      "vortexus": "https://wa.me/584123989549",
-      "asif": "https://wa.me/584123989549"
+      "boxmine": "https://wa.me/5219181527190",
+      "cafirexos": "https://wa.me/5219181527190",
+      "vortexus": "https://wa.me/5219181527190",
+      "asif": "https://wa.me/5219181527190"
     },
 
     "others": {
-      "assistance_num": "https://wa.me/584123989549",
-      "yt_vid": "https://wa.me/584123989549",
-      "group_support": "https://chat.whatsapp.com/ExJXKPyFzMC7q1uEYuXVDZ"
+      "assistance_num": "https://wa.me/5219181527190",
+      "yt_vid": "https://wa.me/5219181527190",
+      "group_support": "https://chat.whatsapp.com/Idh4WkP28M5KMzql3cric8"
     }
 
   }

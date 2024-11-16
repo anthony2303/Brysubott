@@ -22,11 +22,11 @@ const rl = createInterface(process.stdin, process.stdout)
 //const app = express()
 //const port = process.env.PORT || 8080;
 
-say('Sisked\nBot', {
+say('Brysu\nBot', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`Si eres mi noviecita geri, hola mi amor te amo mucho<3`, {
+say(`Si eres el Bryan, nomás paso a recordarte que eres gay hdpta`, {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']})
